@@ -5,8 +5,7 @@
 <a href="https://twitter.com/_JamesWard?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large">@_JamesWard</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Bruce Eckel
-*Author/Consultant*
-<a href="https://www.mindviewllc.com/">MindView LLC</a>
+*Author/Consultant* <a href="https://www.mindviewllc.com/">MindView LLC</a>
 
 
 ---
