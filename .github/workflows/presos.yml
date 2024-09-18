@@ -1,7 +1,5 @@
 on:
-  push:
-    branches:
-      - presos
+  push
 
 jobs:
   build-and-upload:
