@@ -9,6 +9,9 @@
 
 ---
 
+!()[images/software-lego]
+
+---
 ## What are side effects?
 
 - What challenges do they create?
