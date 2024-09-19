@@ -9,7 +9,7 @@
 
 ---
 
-!()[images/software-lego]
+![](images/software-lego.webp)
 
 ---
 ## What are side effects?
