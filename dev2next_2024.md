@@ -6,6 +6,9 @@
 #### Bruce Eckel
 *Author/Consultant* <a href="https://www.mindviewllc.com/">MindView LLC</a>
 
+---
+
+![](images/BillJamesBruce.webp)
 
 ---
 
