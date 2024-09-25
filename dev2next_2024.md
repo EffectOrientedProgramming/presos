@@ -8,11 +8,12 @@
 
 ---
 
-![](images/BillJamesBruce.webp)
+<img src="images/BillJamesBruce.webp" style="width: 65%;">
+
 
 ---
 
-![](images/software-lego.webp)
+<img src="images/software-lego.webp" style="width: 65%;">
 
 ---
 ## What are side effects?
