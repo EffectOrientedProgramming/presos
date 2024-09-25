@@ -19,6 +19,34 @@
 <img src="images/software-lego.webp" style="width: 65%;">
 
 ---
+
+<pre style="font-size: 150px; text-align: center;">
+f(g(h()))
+</pre>
+
+---
+
+<p style="font-size: 65px; text-align: center;">
+A sentence is composed of words.
+</p>
+
+---
+
+<style>
+  .spc {
+    background-color: orange;
+    display: inline-block;
+    height: 35px;
+    vertical-align: middle;
+  }
+</style>
+
+<p style="font-size: 65px; text-align: center;">
+  A<span class="spc">&nbsp;</span>sentence<span class="spc">&nbsp;</span>is<span class="spc">&nbsp;</span>composed<span class="spc">&nbsp;</span>of<span class="spc">&nbsp;</span>words.
+</p>
+
+---
+
 ## What are side effects?
 
 - What challenges do they create?
