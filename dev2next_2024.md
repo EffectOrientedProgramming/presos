@@ -11,7 +11,7 @@
 
 ---
 
-<img src="images/BillJamesBruce.webp" style="width: 65%;">
+<img src="images/BillJamesBruce.png" style="width: 65%;">
 
 
 ---
