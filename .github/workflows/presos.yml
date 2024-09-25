@@ -22,6 +22,7 @@ jobs:
           mkdir _site
           cp *.html _site/
           cp *.pdf _site/
+          cp -r images _site/
 
       - name: setup pages
         uses: actions/configure-pages@v5
