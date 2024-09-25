@@ -66,15 +66,80 @@ f(g(h()))
 <span class="spc2">&nbsp;</span>f(<span class="spc2">&nbsp;</span>g(<span class="spc2">&nbsp;</span>h()))
 </pre>
 
+---
+
+<div style="position: absolute; top: 10%; left: 10%; font-size: 180px;">
+Cool
+</div>
 
 ---
 
-## What are side effects?
-
-- What challenges do they create?
-- Why are they difficult to compose / chain / test?
-- Signs of side-effects (e.g. Unit).
+<div style="text-align: center; font-size: 60px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+Cool
+</div>
 
 ---
 
-## Managing unpredicability with Effects & Effect Systems
+<div style="position: absolute; bottom: 10%; right: 10%; font-size: 50px;">
+What problem are we solving, again?
+</div>
+
+---
+
+# What Impedes Composability?
+
+---
+
+<pre style="font-size: 50px; text-align: left;">
+def p(a: Int, b: Int): Int =
+  a + b
+</pre>
+
+- No Surprises
+- Results can be cached
+- *Pure* function
+- Because there are no Surprises: Easily Composed
+
+---
+
+<pre style="font-size: 50px; text-align: left;">
+def u(a: Int, b: Int): Int =
+  a + b + scala.util.Random.nextInt()
+</pre>
+
+- Unpredictable, No Longer Pure
+- The Surprises Make it Hard to Compose
+
+---
+
+## The Simplest Functions can Produce Surprises 
+
+<pre style="font-size: 50px; text-align: left;">
+def divide(a: Int, b: Int): Int =
+  a / b
+</pre>
+
+---
+
+# Side Effects
+
+---
+
+# *Effect Systems* Turn Side Effects into *Effects*
+
+---
+
+<pre style="font-size: 50px; text-align: left;">
+def c(a: Int, b: Int): Int =
+  a + b + <span style="background-color: orange;">ControlledRandom.nextInt()</span>
+</pre>
+
+---
+
+# To Keep This From Happening To Me (Again)
+
+<img src="images/NoSleep.png" style="width: 20%;">
+
+- Bill & James abstracted away the underlying machinery
+- If you're a purist this might make you mad
+- We're going to risk it
