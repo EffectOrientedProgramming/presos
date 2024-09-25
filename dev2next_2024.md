@@ -47,6 +47,28 @@ A sentence is composed of words.
 
 ---
 
+<pre style="font-size: 150px; text-align: center;">
+f(g(h()))
+</pre>
+
+---
+
+<style>
+  .spc2 {
+    background-color: orange;
+    display: inline-block;
+    height: 100px;
+    vertical-align: middle;
+  }
+</style>
+
+<pre style="font-size: 150px; text-align: center;">
+<span class="spc2">&nbsp;</span>f(<span class="spc2">&nbsp;</span>g(<span class="spc2">&nbsp;</span>h()))
+</pre>
+
+
+---
+
 ## What are side effects?
 
 - What challenges do they create?
