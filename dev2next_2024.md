@@ -121,7 +121,7 @@ def divide(a: Int, b: Int): Int =
 
 ---
 
-# Side Effects
+# Surprises == *Side Effects*
 
 ---
 
@@ -136,7 +136,7 @@ def c(a: Int, b: Int): Int =
 
 ---
 
-# To Keep This From Happening To Me (Again)
+# To Keep **This** From Happening To Me (Again)
 
 <img src="images/NoSleep.png" style="width: 20%;">
 
