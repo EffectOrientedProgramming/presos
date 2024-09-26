@@ -138,7 +138,7 @@ def u(a: Int, b: Int): Int =
 </pre>
 
 - Unpredictable, No Longer Pure
-- The Surprises Make it Hard to Compose
+- The Surprises Make it Hard to Test & Compose
 
 ---
 
@@ -156,6 +156,11 @@ def divide(a: Int, b: Int): Int =
 ---
 
 # *Effect Systems* Turn Side Effects into *Effects*
+
+---
+
+# *Effect<span class="spc">&nbsp;</span>Systems*<span class="spc">&nbsp;</span>Turn<span class="spc">&nbsp;</span>Side<span class="spc">&nbsp;</span>Effects<span class="spc">&nbsp;</span>into<span class="spc">&nbsp;</span>*Effects*
+
 
 ---
 
