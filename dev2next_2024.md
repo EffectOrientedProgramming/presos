@@ -11,6 +11,36 @@
 
 ---
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
+    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
+
+- Food Rating: 8.5/10
+</div>
+
+
+---
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
+    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
+
+- Food Rating: 8.5/10
+- Restaurant goal: 9/10
+</div>
+
+
+---
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
+    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
+
+- Food Rating: 8.5/10
+- Restaurant goal: 9/10
+<span style="font-size: 12px;">(From Rory Sutherland TED talk)</span>
+</div>
+
+
+---
+
 <img src="images/BillJamesBruce.png" style="width: 65%;">
 
 
