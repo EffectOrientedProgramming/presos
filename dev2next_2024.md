@@ -142,7 +142,7 @@ def u(a: Int, b: Int): Int =
 
 ---
 
-## The Simplest Functions can Produce Surprises 
+## Even the Simplest Functions can Produce Surprises 
 
 <pre style="font-size: 50px; text-align: left;">
 def divide(a: Int, b: Int): Int =
@@ -164,6 +164,7 @@ def divide(a: Int, b: Int): Int =
 
 ---
 
+## Oversimplified to Show the Idea:
 <pre style="font-size: 50px; text-align: left;">
 def c(a: Int, b: Int): Int =
   a + b + <span style="background-color: orange;">ControlledRandom.nextInt()</span>
