@@ -12,7 +12,7 @@
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
-    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
+    <img src="images/Restaurant.webp" style="max-width: 60%; height: auto; margin-right: 20px;">
 
 <span style="font-size: 16px;">(From a Rory Sutherland TED talk)</span>
 </div>
@@ -21,7 +21,7 @@
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
-    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
+    <img src="images/Restaurant.webp" style="max-width: 60%; height: auto; margin-right: 20px;">
 
 - Food Rating: 8.5/10
 </div>
@@ -29,7 +29,7 @@
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
-    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
+    <img src="images/Restaurant.webp" style="max-width: 60%; height: auto; margin-right: 20px;">
 
 - Food Rating: 8.5/10
 - Restaurant goal: 9/10
@@ -38,21 +38,17 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 20px;">
-    <img src="images/Restaurant.webp" style="max-width: 50%; height: auto; margin-right: 20px;">
-
-- Food Rating: 8.5/10
-- Restaurant goal: 9/10
-
-
----
-
+<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 50px; text-align: center;">
 <img src="images/BillJamesBruce.png" style="width: 65%;">
-
+What Problem are we Solving?
+</div>
 
 ---
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; padding: 50px; text-align: center;">
 <img src="images/software-lego.webp" style="width: 65%;">
+Building Blocks => Composability
+</div>
 
 ---
 
@@ -116,8 +112,14 @@ Cool
 
 ---
 
+<div style="text-align: center; font-size: 30px; position: absolute; top: 70%; left: 70%; transform: translate(-50%, -50%);">
+Cool
+</div>
+
+---
+
 <div style="position: absolute; bottom: 10%; right: 10%; font-size: 50px;">
-What problem are we solving, again?
+Remind me why we would do this?
 </div>
 
 ---
