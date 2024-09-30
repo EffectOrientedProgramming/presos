@@ -184,6 +184,6 @@ def c(a: Int, b: Int): Int =
 
 <img src="images/NoSleep.png" style="width: 20%;">
 
-- Bill & James abstracted away the underlying machinery
+- Bill & James abstracted away the underlying machinery—including much of Scala
 - If you're a purist this might make you mad
 - We're going to risk it
