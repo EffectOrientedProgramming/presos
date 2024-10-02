@@ -1,12 +1,21 @@
-## Effect Oriented Programming
+![bg right fit](images/eop-wallpaper.jpg)
 
-#### James Ward — *Developer Advocate @ AWS* <a href="https://twitter.com/_JamesWard?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large">@_JamesWard</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# Effect Oriented Programming
 
-#### Bruce Eckel — *Author/Consultant* <a href="https://www.mindviewllc.com/">MindView LLC</a> <a href="https://twitter.com/BruceEckel" class="twitter-follow-button" data-size="large">@BruceEckel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### Bruce Eckel  <a href="https://twitter.com/BruceEckel" class="twitter-follow-button" data-size="large">@BruceEckel</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Author/Consultant* MindViewLLC.com
 
-#### Bill Frasure — *Developer*
+### Bill Frasure
+*Developer*
 
-Slides: https://effectorientedprogramming.github.io/presos/dev2next_2024
+### James Ward <a href="https://twitter.com/_JamesWard?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large">@_JamesWard</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+*Developer Advocate @ AWS*
+
+
+<br>
+<p style="font-size: 0.8em;">
+https://effectorientedprogramming.github.io<br>/presos/dev2next_2024
+</p>
 
 ---
 
@@ -132,7 +141,7 @@ def p(a: Int, b: Int): Int =
   a + b
 </pre>
 
-- No Surprises
+- No Surprises/Unpredictabilities
 - Results can be cached
 - *Pure* function
 - Because there are no Surprises: Easily Composed
@@ -149,7 +158,7 @@ def u(a: Int, b: Int): Int =
 
 ---
 
-## Even the Simplest Functions can Produce Surprises 
+## Even the Simplest Functions can Produce Surprises
 
 <pre style="font-size: 50px; text-align: left;">
 def divide(a: Int, b: Int): Int =
@@ -158,7 +167,7 @@ def divide(a: Int, b: Int): Int =
 
 ---
 
-# Surprises == *Side Effects*
+# Surprises/Unpredictabilies == *Side Effects*
 
 ---
 
