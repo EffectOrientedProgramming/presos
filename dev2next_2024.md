@@ -1,4 +1,4 @@
-![bg right fit](images/eop-wallpaper.jpg)
+![bg right:30% fit](images/eop-wallpaper.jpg)
 
 # Effect Oriented Programming
 
@@ -13,8 +13,8 @@
 
 
 <br>
-<p style="font-size: 0.8em;">
-https://effectorientedprogramming.github.io<br>/presos/dev2next_2024
+<p style="font-size: 0.85em;">
+https://effectorientedprogramming.github.io/presos/dev2next_2024
 </p>
 
 ---
