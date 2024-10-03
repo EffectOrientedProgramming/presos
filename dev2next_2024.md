@@ -177,11 +177,12 @@ def divide(a: Int, b: Int): Int =
 
 ---
 
-## Oversimplified to Show the Idea:
-<pre style="font-size: 50px; text-align: left;">
-def c(a: Int, b: Int): Int =
+<pre style="font-size: 50px; text-align: left; line-height: 1.4;">
+def c(a: Int, b: Int): <span style="background-color: orange;">Result</span> =
   a + b + <span style="background-color: orange;">ControlledRandom.nextInt()</span>
 </pre>
+
+
 
 ---
 
@@ -191,4 +192,4 @@ def c(a: Int, b: Int): Int =
 
 - Bill & James abstracted away the underlying machinery—including much of Scala
 - If you're a purist this might make you mad
-- We're going to risk it
+- We're going to risk it—we think you can "program without first understanding the compiler"
