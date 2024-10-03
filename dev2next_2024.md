@@ -173,7 +173,7 @@ def divide(a: Int, b: Int): Int =
 
 # *Effect System*
 ## <li> Side Effects ==> *Managed Effects*
-## <li> Shortened to just "Effects"
+## <li> Shortened to just *Effects*
 
 ---
 
