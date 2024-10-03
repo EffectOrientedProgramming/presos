@@ -171,12 +171,9 @@ def divide(a: Int, b: Int): Int =
 
 ---
 
-# *Effect Systems* Turn Side Effects into *Effects*
-
----
-
-# *Effect<span class="spc">&nbsp;</span>Systems*<span class="spc">&nbsp;</span>Turn<span class="spc">&nbsp;</span>Side<span class="spc">&nbsp;</span>Effects<span class="spc">&nbsp;</span>into<span class="spc">&nbsp;</span>*Effects*
-
+# *Effect System*
+## <li> Side Effects ==> *Managed Effects*
+## <li> Shortened to just "Effects"
 
 ---
 
