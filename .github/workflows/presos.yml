@@ -14,9 +14,9 @@ jobs:
 
       - run: npm install
 
-      - run: npx @marp-team/marp-cli dev2next_2024.md
+      - run: npx @marp-team/marp-cli *_*.md
 
-      - run: npx @marp-team/marp-cli --pdf dev2next_2024.md
+      - run: npx @marp-team/marp-cli --pdf *_*.md
 
       - run: |
           mkdir _site
